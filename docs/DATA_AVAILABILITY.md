@@ -1,7 +1,6 @@
 # Data availability, ethics and scope
 
-## Release candidate with a prepared public matrix
-
+## Prepared public matrix
 `data/public/GCF_MASTER_34_PUBLIC.csv` contains 34 prepared absorbance spectra × 793 wavenumbers, plus the minimal grouping variables needed for EMSC, unsupervised PCA, age-restricted exact permutation tests, fixed-carrier NMF and reconstruction of the final publication figures.
 
 The public candidate removes source filenames, exact ages, sex, pubertal, endocrine and connective-tissue metadata. Pediatric records receive different analytical labels. It retains only the documented-periodontal-status grouping and the indicator of being in the 14–17-year comparison age band; both variables are indispensable for reproducing the paper's clinical comparisons. Figures and aggregates are also included.
