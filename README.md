@@ -44,7 +44,7 @@ On macOS without XQuartz, the scripts skip optional Cairo PDFs and still generat
 
 ## Reproducibility boundary and data availability
 
-This release starts from the **prepared absorbance** master matrix, not raw instrument files. The previous article in *Data* released a different, SNV-normalized pediatric matrix; that input cannot replace the absorbance matrix required for carrier adjustment here. Original `.spc`/`.dpt` acquisition and conversion to this prepared matrix are outside the reproducible scope.
+This release starts from the **prepared absorbance** master matrix, not raw instrument files. Original `.spc`/`.dpt` acquisition and conversion to this prepared matrix are outside the reproducible scope.
 
 The shared input uses pseudonyms and does not include exact ages, sex, endocrine/UCTD metadata, medical chart numbers or source filenames. It **does** contain per-spectrum periodontal-status and 14–17-year age-band indicators required for the clinical tests. 
 
