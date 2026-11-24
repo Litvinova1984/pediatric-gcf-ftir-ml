@@ -10,5 +10,3 @@
 - Snapshot crosscheck: all 9 files under `outputs/` and both PNGs under `figures/` match the corresponding completed `R/results/` files in the author's uploaded archive byte-for-byte.
 - The 5 numerical checks in `outputs/05_independent_numeric_checks.csv` are all `TRUE`; 11 public-input sanity checks in `checks/PUBLIC_INPUT_INDEPENDENT_PYTHON_QC.csv` are `TRUE`.
 - The received ZIP included `R/results/` with restricted individual analytical files. These files were **excluded** from the distribution ZIP, along with macOS metadata. The distribution SHA-256 manifest was rebuilt after cleanup.
-
-**Known scope limit:** successful constituent-stage and verification logs are available; a separate clean-session run of `Rscript run_all.R` from a new extraction of this final ZIP was not performed by the reviewer. Input creation from original `.spc`/`.dpt` is out of scope. Releasing the individual clinical status flags is conditional on the research team's consent/ethics confirmation.
