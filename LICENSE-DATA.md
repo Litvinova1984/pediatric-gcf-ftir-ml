@@ -2,7 +2,7 @@
 
 These parts of the repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0):
 
-- Approved prepared absorbance input in `data/public/` (its public redistribution requires the specific disclosure checks in docs/DATA_AVAILABILITY.md)
+- Approved prepared absorbance input in `data/public/` 
 - Aggregated analytic tables in `outputs/`
 - Publication figures in `figures/`
 - Documentation in `docs/`, `README.md`, and `data/README.md`
