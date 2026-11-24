@@ -46,7 +46,7 @@ On macOS without XQuartz, the scripts skip optional Cairo PDFs and still generat
 
 This release starts from the **prepared absorbance** master matrix, not raw instrument files. The previous article in *Data* released a different, SNV-normalized pediatric matrix; that input cannot replace the absorbance matrix required for carrier adjustment here. Original `.spc`/`.dpt` acquisition and conversion to this prepared matrix are outside the reproducible scope.
 
-The shared input uses pseudonyms and does not include exact ages, sex, endocrine/UCTD metadata, medical chart numbers or source filenames. It **does** contain per-spectrum periodontal-status and 14–17-year age-band indicators required for the clinical tests. Pseudonymization does not prevent linkage to previously released spectra. **Before making the GitHub repository public, the research team must confirm that consent, ethics approval and applicable data-governance requirements permit this new pairing of individual spectra with clinical flags.** If permission is unavailable, omit the linked input and describe controlled-access reproduction instead. See `docs/DATA_AVAILABILITY.md`.
+The shared input uses pseudonyms and does not include exact ages, sex, endocrine/UCTD metadata, medical chart numbers or source filenames. It **does** contain per-spectrum periodontal-status and 14–17-year age-band indicators required for the clinical tests. 
 
 ## Licenses and citation
 
@@ -54,4 +54,4 @@ The shared input uses pseudonyms and does not include exact ages, sex, endocrine
 - **Approved processed data, outputs, figures and documentation:** CC BY 4.0 (`LICENSE-DATA.md`).
 - Restricted instrument records, direct clinical documents and individual analytical outputs are not included. A reuse license does not itself authorize release of protected clinical data.
 
-Citation metadata in `CITATION.cff` follows the manuscript's four-author order; Sinyaeva is given as **L. A. Sinyaeva**, as confirmed by the author group. Add the repository URL and article DOI to the citation information after they exist. See `docs/VERIFICATION.md` for checks on the candidate files.
+Citation metadata in `CITATION.cff` follows the manuscript's four-author order
