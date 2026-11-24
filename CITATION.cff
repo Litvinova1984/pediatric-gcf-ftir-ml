@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the article and the corresponding versioned release."
+type: software
+title: "Pediatric GCF ATR-FTIR: carrier correction and clinical spectral contrasts"
+version: "1.0.0"
+authors:
+  - family-names: "Litvinova"
+    given-names: "Tatiana"
+  - family-names: "Ippolitov"
+    given-names: "Yuri"
+  - family-names: "Sinyaeva"
+    given-names: "L. A."
+  - family-names: "Seredin"
+    given-names: "Pavel"
+license: MIT
+# Repository URL and article DOI can be added when available.

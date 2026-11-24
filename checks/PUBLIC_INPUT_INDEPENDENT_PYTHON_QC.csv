@@ -1,0 +1,12 @@
+metric,observed_from_public_input,reference,absolute_tolerance,pass
+spectra_n,34,34,0,TRUE
+spectral_variables,793,793,0,TRUE
+min_clean_strip_correlation,0.999988991547114,0.999988991547,1e-08,TRUE
+clean_strip_integral_cv_pct,0.818884713852518,0.818884714,1e-06,TRUE
+CH_PCA_PC1_variance_pct,76.5342974745517,76.534297475,1e-05,TRUE
+Protein_PCA_PC1_variance_pct,79.3219849620614,79.321984962,1e-05,TRUE
+CH_Cliff_delta_case_vs_22,0.757575757575758,0.757576,1e-05,TRUE
+CH_exact_two_sided_permutation_p,0.0356521739130435,0.035652,1e-05,TRUE
+Protein_Cliff_delta_case_vs_22,-0.121212121212121,-0.121212,1e-05,TRUE
+Protein_exact_two_sided_permutation_p,0.782608695652174,0.782609,1e-05,TRUE
+CH_full_vs_age_contrast_cosine,0.972209518712901,0.9722095,1e-05,TRUE

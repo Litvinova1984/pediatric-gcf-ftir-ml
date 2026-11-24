@@ -1,0 +1,6 @@
+"metric","independent_reference","observed_R","absolute_tolerance","pass"
+"EMSC DPT4 Protein PC1 %",79.321984962,79.3219849620612,0.02,TRUE
+"EMSC DPT4 CH PC1 %",76.534297475,76.5342974745517,0.02,TRUE
+"EMSC DPT4 CH two-sided permutation p",0.035652174,0.0356521739130435,6e-04,TRUE
+"CH full-vs-age contrast cosine",0.972,0.972209518712899,0.02,TRUE
+"CH EMSC-vs-archive-projection contrast cosine",0.962020564,0.962020563712393,0.02,TRUE
